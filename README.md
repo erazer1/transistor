@@ -1,3 +1,8 @@
+REPO for backup purposes only!
+======
+[Active repo here:](https://codeberg.org/y20k/transistor/)
+
+
 README
 ======
 
